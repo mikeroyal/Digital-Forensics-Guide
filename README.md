@@ -16,9 +16,9 @@
 
 # Table of Contents
 
-1. [Digital Forensics Learning Resources](https://github.com/mikeroyal/Digital-Forensics-Guide#computer-forensics-learning-resources)
+1. [Digital Forensics Learning Resources](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-learning-resources)
 
-2. [Digital Forensics Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Digital-Forensics-Guide#computer-forensics-tools-libraries-and-frameworks)
+2. [Digital Forensics Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-tools-libraries-and-frameworks)
 
 3. [Virtualization](https://github.com/mikeroyal/Digital-Forensics-Guide#virtualization)
 
