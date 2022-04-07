@@ -6,7 +6,6 @@
 
 #### A guide covering Digital Forensics the applications, libraries and tools that will make you a better and more efficient with Digital Forensics development.
 
-
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
@@ -28,8 +27,8 @@
 
 6. [Networking](https://github.com/mikeroyal/Digital-Forensics-Guide#networking)
 
-
 # Digital Forensics Learning Resources
+
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 [Digital Forensics](https://www.dhs.gov/publication/digital-forensics-tools) is the process of recovering and preserving material found on digital devices during the course of criminal investigations. Digital forensics tools include hardware and software tools used by law enforcement to collect and preserve digital evidence and support or refute hypotheses before courts.
@@ -61,6 +60,7 @@
 [IACIS - BCFE: Basic Computer Forensic Examiner course](https://www.iacis.com/training/basic-computer-forensics-examiner/)
 
 # Digital Forensics Tools, Libraries, and Frameworks
+
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 [Autopsy®](https://sleuthkit.org/autopsy/) is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
@@ -68,6 +68,8 @@
 [The Sleuth Kit® (TSK)](https://sleuthkit.org/sleuthkit/) is a library and collection of command line tools that allow you to investigate disk images. The core functionality of TSK allows you to analyze volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence.
 
 [PTK Forensics](https://wiki.sleuthkit.org/index.php?title=PTK) is a computer forensic framework for the command line tools in the SleuthKit plus much more software modules.
+
+[GetData Forensic Explorer](https://getdataforensics.com/product/forensic-explorer-fex/) is a fast deep dive computer forensic software that supports file carving, recovery, operating system artifacts, encryption, emails, indexing, hashing, signature analysis and many features including remote imaging, live image boot and CLI mode.
 
 [DFF (Digital Forensics Framework)](https://tools.kali.org/forensics/dff) is a free and Open Source computer forensics software built on top of a dedicated Application Programming Interface (API). It can be used both by professional and non-expert people in order to quickly and easily collect, preserve and reveal digital evidences without compromising systems and data.
 
@@ -91,45 +93,46 @@
 
 [OpenText™ EnCase™](https://security.opentext.com/encase-forensic) is a commercial forensics platform. It offers support for evidence collection from over twenty-five different types of devices, including desktops, mobile devices and GPS. Within the tool, a forensic investigator can inspect the collected data and generate a wide range of reports based upon predefined templates.
 
-[Redline®](https://www.fireeye.com/services/freeware/redline.html) is  FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile. It collects information about running processes on a host, drivers from memory and gathers other data like meta data, registry data, tasks, services, network information and internet history to build a proper report.
+[Redline®](https://www.fireeye.com/services/freeware/redline.html) is FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile. It collects information about running processes on a host, drivers from memory and gathers other data like meta data, registry data, tasks, services, network information and internet history to build a proper report.
 
 [Paraben's Electronic Evidence Examiner—E3](https://paraben.com/) is a comprehensive digital forensic platform designed to handle more data, more efficiently while adhering to Paraben's paradigm of specialized focus of the entire forensic exam process. Paraben has capabilities in:
 
- - Desktop forensics
- - Email forensics
- - Smartphone analysis
- - Cloud analysis
- - IoT forensics
- - Triage and visualization
+- Desktop forensics
+- Email forensics
+- Smartphone analysis
+- Cloud analysis
+- IoT forensics
+- Triage and visualization
 
- [Bulk Extractor](https://tools.kali.org/forensics/bulk-extractor) is a program that extracts features such as email addresses, credit card numbers, URLs, and other types of information from digital evidence files. It is a useful forensic investigation tool for many tasks such as malware and intrusion investigations, identity investigations and cyber investigations, as well as analyzing imagery and pass-word cracking.
+[Bulk Extractor](https://tools.kali.org/forensics/bulk-extractor) is a program that extracts features such as email addresses, credit card numbers, URLs, and other types of information from digital evidence files. It is a useful forensic investigation tool for many tasks such as malware and intrusion investigations, identity investigations and cyber investigations, as well as analyzing imagery and pass-word cracking.
 
- [Registry Recon](https://arsenalrecon.com/) is a powerful computer forensics tool developed by Arsenal Recon. The tool is  used to extract, recover, and parse registry data from Windows systems. The process of manually scouring Windows Registry files proves to be extremely time consuming and leaves gaping holes in the ability to recover critical information.
+[Registry Recon](https://arsenalrecon.com/) is a powerful computer forensics tool developed by Arsenal Recon. The tool is used to extract, recover, and parse registry data from Windows systems. The process of manually scouring Windows Registry files proves to be extremely time consuming and leaves gaping holes in the ability to recover critical information.
 
- [Volatility](https://www.volatilityfoundation.org/) is the memory forensics framework. It is used for incident response and malware analysis. With this tool, you can extract information from running processes, network sockets, network connection, DLLs and registry hives. It also has support for extracting information from Windows crash dump files and hibernation files.
+[Volatility](https://www.volatilityfoundation.org/) is the memory forensics framework. It is used for incident response and malware analysis. With this tool, you can extract information from running processes, network sockets, network connection, DLLs and registry hives. It also has support for extracting information from Windows crash dump files and hibernation files.
 
- [WindowsSCOPE](https://www.bluerisc.com/windowsscope/) is a commercial memory forensics and reverse engineering tool used for analyzing volatile memory. It is basically used for reverse engineering of malware. It provides the ability to analyze the Windows kernel, drivers, DLLs and virtual and physical memory.
+[WindowsSCOPE](https://www.bluerisc.com/windowsscope/) is a commercial memory forensics and reverse engineering tool used for analyzing volatile memory. It is basically used for reverse engineering of malware. It provides the ability to analyze the Windows kernel, drivers, DLLs and virtual and physical memory.
 
- [Wireshark](https://www.wireshark.org/) is the most widely used network traffic analysis tool in existence. It has the ability to capture live traffic or ingest a saved capture file.
+[Wireshark](https://www.wireshark.org/) is the most widely used network traffic analysis tool in existence. It has the ability to capture live traffic or ingest a saved capture file.
 
- [Network Miner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool (NFAT) for Windows (also Linux, macOS X , and FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, and open ports  without putting any traffic on the network.
+[Network Miner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool (NFAT) for Windows (also Linux, macOS X , and FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, and open ports without putting any traffic on the network.
 
- [Xplico](https://www.xplico.org/) is an open-source network forensic analysis tool. It is used to extract useful data from applications which use Internet and network protocols. It supports most of the popular protocols including HTTP, IMAP, POP, SMTP, SIP, TCP, UDP, TCP and others. Output data of the tool is stored in an SQLite database or MySQL database. It also supports both IPv4 and IPv6.
+[Xplico](https://www.xplico.org/) is an open-source network forensic analysis tool. It is used to extract useful data from applications which use Internet and network protocols. It supports most of the popular protocols including HTTP, IMAP, POP, SMTP, SIP, TCP, UDP, TCP and others. Output data of the tool is stored in an SQLite database or MySQL database. It also supports both IPv4 and IPv6.
 
- [Oxygen Forensic Detective](https://www.oxygen-forensic.com/en/products/oxygen-forensic-detective-enterprise) is a forensic's tool that focuses on mobile devices but is capable of extracting data from a number of different platforms, including mobile, IoT, cloud services, drones, media cards, backups and desktop platforms. It uses physical methods to bypass device security (such as screen lock) and collects authentication data for a number of different mobile applications.
+[Oxygen Forensic Detective](https://www.oxygen-forensic.com/en/products/oxygen-forensic-detective-enterprise) is a forensic's tool that focuses on mobile devices but is capable of extracting data from a number of different platforms, including mobile, IoT, cloud services, drones, media cards, backups and desktop platforms. It uses physical methods to bypass device security (such as screen lock) and collects authentication data for a number of different mobile applications.
 
- [XRY](https://www.msab.com/products/xry/) is a collection of different commercial tools for mobile device forensics. XRY Logical is a suite of tools designed to interface with the mobile device operating system and extract the desired data. XRY Physical, on the other hand, uses physical recovery techniques to bypass the operating system, enabling analysis of locked devices.
+[XRY](https://www.msab.com/products/xry/) is a collection of different commercial tools for mobile device forensics. XRY Logical is a suite of tools designed to interface with the mobile device operating system and extract the desired data. XRY Physical, on the other hand, uses physical recovery techniques to bypass the operating system, enabling analysis of locked devices.
 
 [SIFT Workstation]https://www.sans.org/tools/sift-workstation/() is another open-source Linux virtual machine that aggregates free digital forensics tools. This platform was developed by the SANS Institute and its use is taught in a number of their courses.
 
 [HashKeeper](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/nsrl-frequently) is a central database repository of Forensic Intelligence donated by various sources, usually obtained by law enforcement during the course of forensic investigations of suspect systems.
 
 # Virtualization
+
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
-[PV(ParaVirtualization)](https://wiki.xenproject.org/wiki/Paravirtualization_(PV)) is an efficient and lightweight virtualization technique introduced by the Xen Project team, later adopted by other virtualization solutions. PV does not require virtualization extensions from the host CPU and thus enables virtualization on hardware architectures that do not support Hardware-assisted virtualization.
+[PV(ParaVirtualization)](<https://wiki.xenproject.org/wiki/Paravirtualization_(PV)>) is an efficient and lightweight virtualization technique introduced by the Xen Project team, later adopted by other virtualization solutions. PV does not require virtualization extensions from the host CPU and thus enables virtualization on hardware architectures that do not support Hardware-assisted virtualization.
 
 [Virtualization-based Security (VBS)](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-vbs) is a hardware virtualization feature to create and isolate a secure region of memory from the normal operating system.
 
@@ -174,6 +177,7 @@
 [VMware Workstation](https://www.vmware.com/products/workstation-pro.html) is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems; it enables users to set up virtual machines on a single physical machine, and use them simultaneously along with the actual machine.
 
 # File systems
+
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 [GlusterFS](https://www.gluster.org/) is a free and open source scalable network filesystem. Gluster is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks.
@@ -184,27 +188,28 @@
 
 [ZFS](https://docs.oracle.com/cd/E19253-01/819-5461/zfsover-2/) is an enterprise-ready open source file system and volume manager with unprecedented flexibility and an uncompromising commitment to data integrity.
 
-[OpenZFS](https://openzfs.org/wiki/Main_Page ) is an open-source storage platform. It includes the functionality of both traditional file systems and volume manager. It has many advanced features including:
+[OpenZFS](https://openzfs.org/wiki/Main_Page) is an open-source storage platform. It includes the functionality of both traditional file systems and volume manager. It has many advanced features including:
 
-  - Protection against data corruption.
-  - Integrity checking for both data and metadata.
-  - Continuous integrity verification and automatic "self-healing" repair.
+- Protection against data corruption.
+- Integrity checking for both data and metadata.
+- Continuous integrity verification and automatic "self-healing" repair.
 
 [Btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) is a modern copy on write (CoW) filesystem for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. Its main features and benefits are:
 
-  - Snapshots which do not make the full copy of files
-  - RAID - support for software-based RAID 0, RAID 1, RAID 10
-  - Self-healing - checksums for data and metadata, automatic detection of silent data corruptions
+- Snapshots which do not make the full copy of files
+- RAID - support for software-based RAID 0, RAID 1, RAID 10
+- Self-healing - checksums for data and metadata, automatic detection of silent data corruptions
 
 [Squashfs](https://www.kernel.org/doc/html/latest/filesystems/squashfs.html) is a compressed read-only filesystem for Linux. It uses zlib, lz4, lzo, or xz compression to compress files, inodes and directories. Inodes in the system are very small and all blocks are packed to minimize data overhead.
 
-[Apple File System (APFS)](https://support.apple.com/guide/disk-utility/file-system-formats-available-in-disk-utility-dsku19ed921c/mac) is  the default file system for Mac computers using macOS 10.13 or later, features strong encryption, space sharing, snapshots, fast directory sizing, and improved file system fundamentals.
+[Apple File System (APFS)](https://support.apple.com/guide/disk-utility/file-system-formats-available-in-disk-utility-dsku19ed921c/mac) is the default file system for Mac computers using macOS 10.13 or later, features strong encryption, space sharing, snapshots, fast directory sizing, and improved file system fundamentals.
 
 [NTFS(New Technology File System)](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview) is the primary file system for recent versions of Windows and Windows Server—provides a full set of features including security descriptors, encryption, disk quotas, and rich metadata, and can be used with Cluster Shared Volumes (CSV) to provide continuously available volumes that can be accessed simultaneously from multiple nodes of a failover cluster.
 
 [exFAT(Extended File Allocation Table )](https://docs.microsoft.com/en-us/windows/win32/fileio/exfat-specification) is the file system that was the successor to FAT32 in the FAT family of file systems. It was optimized for flash memory such as USB flash drives and SD cards.
 
 # Security Tools and Frameworks
+
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 ## Security Standards, Frameworks and Benchmarks
@@ -308,8 +313,8 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Open Vulnerability and Assessment Language](https://oval.mitre.org/) is a community effort to standardize how to assess and report upon the machine state of computer systems. OVAL includes a language to encode system details, and community repositories of content. Tools and services that use OVAL provide enterprises with accurate, consistent, and actionable information to improve their security.
 
-
 # Networking
+
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 <p align="center">
@@ -382,6 +387,7 @@ A network interface may be associated with a physical device, or it may be a rep
     • LAN: LAN stands for "local area network". It refers to a network or a portion of a network that is not publicly accessible to the greater internet. A home or office network is an example of a LAN.
 
     • WAN: WAN stands for "wide area network". It means a network that is much more extensive than a LAN. While WAN is the relevant term to use to describe large, dispersed networks in general, it is usually meant to mean the internet, as a whole.
+
 If an interface is connected to the WAN, it is generally assumed that it is reachable through the internet.
 
     • Protocol: A protocol is a set of rules and standards that basically define a language that devices can use to communicate. There are a great number of protocols in use extensively in networking, and they are often implemented in different layers.
@@ -398,11 +404,11 @@ Some low level protocols are TCP, UDP, IP, and ICMP. Some familiar examples of a
 
 ## Network Layers
 
-	While networking is often discussed in terms of topology in a horizontal way, between hosts, its implementation is layered in a vertical fashion throughout a computer or network. This means is that there are multiple technologies and protocols that are built on top of each other in order for communication to function more easily. Each successive, higher layer abstracts the raw data a little bit more, and makes it simpler to use for applications and users. It also allows you to leverage lower layers in new ways without having to invest the time and energy to develop the protocols and applications that handle those types of traffic.
+    While networking is often discussed in terms of topology in a horizontal way, between hosts, its implementation is layered in a vertical fashion throughout a computer or network. This means is that there are multiple technologies and protocols that are built on top of each other in order for communication to function more easily. Each successive, higher layer abstracts the raw data a little bit more, and makes it simpler to use for applications and users. It also allows you to leverage lower layers in new ways without having to invest the time and energy to develop the protocols and applications that handle those types of traffic.
 
-	As data is sent out of one machine, it begins at the top of the stack and filters downwards. At the lowest level, actual transmission to another machine takes place. At this point, the data travels back up through the layers of the other computer. Each layer has the ability to add its own "wrapper" around the data that it receives from the adjacent layer, which will help the layers that come after decide what to do with the data when it is passed off.
+    As data is sent out of one machine, it begins at the top of the stack and filters downwards. At the lowest level, actual transmission to another machine takes place. At this point, the data travels back up through the layers of the other computer. Each layer has the ability to add its own "wrapper" around the data that it receives from the adjacent layer, which will help the layers that come after decide what to do with the data when it is passed off.
 
-	One method of talking about the different layers of network communication is the OSI model. OSI stands for Open Systems Interconnect.This model defines seven separate layers. The layers in this model are:
+    One method of talking about the different layers of network communication is the OSI model. OSI stands for Open Systems Interconnect.This model defines seven separate layers. The layers in this model are:
 
     • Application: The application layer is the layer that the users and user-applications most often interact with. Network communication is discussed in terms of availability of resources, partners to communicate with, and data synchronization.
 
@@ -421,6 +427,7 @@ Some low level protocols are TCP, UDP, IP, and ICMP. Some familiar examples of a
 The TCP/IP model, more commonly known as the Internet protocol suite, is another layering model that is simpler and has been widely adopted.It defines the four separate layers, some of which overlap with the OSI model:
 
     • Application: In this model, the application layer is responsible for creating and transmitting user data between applications. The applications can be on remote systems, and should appear to operate as if locally to the end user.
+
 The communication takes place between peers network.
 
     • Transport: The transport layer is responsible for communication between processes. This level of networking utilizes ports to address different services. It can build up unreliable or reliable connections depending on the type of protocol used.
@@ -430,6 +437,7 @@ The communication takes place between peers network.
     • Link: The link layer implements the actual topology of the local network that allows the internet layer to present an addressable interface. It establishes connections between neighboring nodes to send data.
 
 ## Interfaces
+
 **Interfaces** are networking communication points for your computer. Each interface is associated with a physical or virtual networking device. Typically, your server will have one configurable network interface for each Ethernet or wireless internet card you have. In addition, it will define a virtual network interface called the "loopback" or localhost interface. This is used as an interface to connect applications and processes on a single computer to other applications and processes. You can see this referenced as the "lo" interface in many tools.
 
 ## Network Protocols
@@ -462,8 +470,8 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 - [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Digital-Forensics-Guide/pulls).
 
-
 ## License
+
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
