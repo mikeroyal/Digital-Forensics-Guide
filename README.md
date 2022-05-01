@@ -95,12 +95,12 @@
 
 [Paraben's Electronic Evidence Examiner—E3](https://paraben.com/) is a comprehensive digital forensic platform designed to handle more data, more efficiently while adhering to Paraben's paradigm of specialized focus of the entire forensic exam process. Paraben has capabilities in:
 
- - Desktop forensics
- - Email forensics
- - Smartphone analysis
- - Cloud analysis
- - IoT forensics
- - Triage and visualization
+  - Desktop forensics
+  - Email forensics
+  - Smartphone analysis
+  - Cloud analysis
+  - IoT forensics
+  - Triage and visualization
 
  [Bulk Extractor](https://tools.kali.org/forensics/bulk-extractor) is a program that extracts features such as email addresses, credit card numbers, URLs, and other types of information from digital evidence files. It is a useful forensic investigation tool for many tasks such as malware and intrusion investigations, identity investigations and cyber investigations, as well as analyzing imagery and pass-word cracking.
 
@@ -120,9 +120,21 @@
 
  [XRY](https://www.msab.com/products/xry/) is a collection of different commercial tools for mobile device forensics. XRY Logical is a suite of tools designed to interface with the mobile device operating system and extract the desired data. XRY Physical, on the other hand, uses physical recovery techniques to bypass the operating system, enabling analysis of locked devices.
 
-[SIFT Workstation]https://www.sans.org/tools/sift-workstation/() is another open-source Linux virtual machine that aggregates free digital forensics tools. This platform was developed by the SANS Institute and its use is taught in a number of their courses.
+[SIFT Workstation](https://www.sans.org/tools/sift-workstation/) is another open-source Linux virtual machine that aggregates free digital forensics tools. This platform was developed by the SANS Institute and its use is taught in a number of their courses.
 
 [HashKeeper](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl/nsrl-frequently) is a central database repository of Forensic Intelligence donated by various sources, usually obtained by law enforcement during the course of forensic investigations of suspect systems.
+
+[Forensic Explorer Command Line (FEX CLI)](https://getdataforensics.com/product/fex-cli/) is a forensic data processing engine used for computer forensics and electronic discovery. The FEX CLI can be run on a single workstation to an enterprise level virtual environment spawning multiple simultaneous processing instances.
+
+[FEX Memory Imager (FEX Memory)](https://getdataforensics.com/product/fex-memory-imager/) is a free imaging tool designed to capture the physical Random Access Memory (RAM) of a suspect’s running computer. This allows investigators to recover and analyze valuable artifacts found only in memory.
+
+[FEX Imager™](https://getdataforensics.com/product/fex-imager/) is a free forensic imaging program that will acquire or hash a bit-level forensic image with full MD5, SHA1, SHA256 hash authentication. It can acquire a physical drive, logical drive, folders and files, remote devices (using servlet), or re-acquire a forensic image.
+
+[Forensic Explorer™](https://getdataforensics.com/product/forensic-explorer-fex/) is a flexible and easy to use GUI with advanced sort, filter, keyword search, data recovery and script technology. It can quickly process large volumes of data, automate complex investigation tasks, produce detailed reports and increase productivity. 
+
+[Rehex](https://github.com/solemnwarning/rehex) is a cross-platform (Windows, Linux, Mac) hex editor for reverse engineering, and everything else.
+
+[DIRTY](https://github.com/CMUSTRUDEL/DIRTY) is a Augmenting Decompiler Output with Learned Variable Names and Types developed by the Socio-Technical Research Using Data Excavation Lab, at Carnegie Mellon University.
 
 # Virtualization
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
