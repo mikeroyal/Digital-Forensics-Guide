@@ -42,6 +42,10 @@
 
 [Database forensics](https://resources.infosecinstitute.com/topic/computer-forensics-overview-types-database-forensics/) is the process of interrogating a failed database and trying to reconstruct the metadata and page information from within a data set, whereas database recovery implies some kind of restorative process that will enable the database to become viable enough to be put back into a production environment, or healthy enough to provide a backup that can be used in a database restore.
 
+[OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
+
+[NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
+
 [Computer Forensics Training Courses | Udemy](https://www.udemy.com/topic/computer-forensics/)
 
 [Computer Forensics Courses | Coursera](https://www.coursera.org/specializations/computerforensics)
