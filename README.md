@@ -256,6 +256,22 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Netdata](https://github.com/netdata/netdata) is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
+[Acra](https://cossacklabs.com/acra) is a single database security suite with 9 strong security controls: application level encryption, searchable encryption, data masking, data tokenization, secure authentication, data leakage prevention, database request firewall, cryptographically signed audit logging, security events automation. It is designed to cover the most important data security requirements with SQL and NoSQL databases and distributed apps in a fast, convenient, and reliable way.
+
+[Trivy](https://aquasecurity.github.io/trivy/) is a comprehensive security scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
+
+[Lynis](https://cisofy.com/lynis/) is a security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. 
+
+[RustScan](https://github.com/RustScan/RustScan) is a Modern Port Scanner.
+
+[gosec](https://github.com/securego/gosec) is a Golang Security Checker that inspects source code for security problems by scanning the Go AST.
+
+[Prowler](https://github.com/prowler-cloud/prowler) is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. 
+
+[eNgine](https://github.com/yogeshojha/rengine) is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive UI. 
+
+[Osmedeus](https://github.com/j3ssie/osmedeus) is a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets.
+
 [IDA Pro(Interactive DisAssembler Professional)](https://hex-rays.com/IDA-pro/) is a programmable and multi-processor disassembler combined with a local/remote debugger and along with a complete plugin programming environment. It's a great tool for testing and discovering security vulnerabilities.
 
 [Ghidra](https://github.com/NationalSecurityAgency/ghidra) is a software reverse engineering (SRE) framework developed by NSA's Research Directorate for NSA's cybersecurity mission. It helps analyze any malicious code and malware like viruses, and can give cybersecurity professionals a better understanding of potential vulnerabilities in their networks and systems.
