@@ -42,27 +42,33 @@
 
 [Database forensics](https://resources.infosecinstitute.com/topic/computer-forensics-overview-types-database-forensics/) is the process of interrogating a failed database and trying to reconstruct the metadata and page information from within a data set, whereas database recovery implies some kind of restorative process that will enable the database to become viable enough to be put back into a production environment, or healthy enough to provide a backup that can be used in a database restore.
 
-[OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
+### Books
 
-[NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
+ - [OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
 
-[Computer Forensics Training Courses | Udemy](https://www.udemy.com/topic/computer-forensics/)
+ - [NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
+ 
+ - [Python Digital Forensics Cookbook](https://github.com/PythonForensics/PythonForensicsCookbook)
 
-[Computer Forensics Courses | Coursera](https://www.coursera.org/specializations/computerforensics)
+### Digital Forensics Certifications & Courses
 
-[Learn Computer Forensics with Online Courses and Lessons | edX](https://www.edx.org/learn/computer-forensics)
+ - [Computer Forensics Training Courses | Udemy](https://www.udemy.com/topic/computer-forensics/)
 
-[Computer Forensics Courese Learning Path - Infosec Institute](https://www.infosecinstitute.com/skills/learning-paths/computer-forensics/)
+ - [Computer Forensics Courses | Coursera](https://www.coursera.org/specializations/computerforensics)
 
-[National Computer Forensics Institute(NCFI) Training Courses](https://www.ncfi.usss.gov/ncfi/pages/courses.xhtml)
+ - [Learn Computer Forensics with Online Courses and Lessons | edX](https://www.edx.org/learn/computer-forensics)
 
-[Computer Forensics Training and Courses | X-Ways](https://www.x-ways.net/training/index.html)
+ - [Computer Forensics Courese Learning Path - Infosec Institute](https://www.infosecinstitute.com/skills/learning-paths/computer-forensics/)
 
-[Mile2's Certified Digital Forensics Examiner training course](https://niccs.cisa.gov/training/search/mile2/certified-digital-forensics-examiner-cdfe)
+ - [National Computer Forensics Institute(NCFI) Training Courses](https://www.ncfi.usss.gov/ncfi/pages/courses.xhtml)
 
-[Cyber Security Training, Certifications, Degrees and Resources | SANS Institute](https://computer-forensics.sans.org)
+ - [Computer Forensics Training and Courses | X-Ways](https://www.x-ways.net/training/index.html)
 
-[IACIS - BCFE: Basic Computer Forensic Examiner course](https://www.iacis.com/training/basic-computer-forensics-examiner/)
+ - [Mile2's Certified Digital Forensics Examiner training course](https://niccs.cisa.gov/training/search/mile2/certified-digital-forensics-examiner-cdfe)
+
+ - [Cyber Security Training, Certifications, Degrees and Resources | SANS Institute](https://computer-forensics.sans.org)
+
+ - [IACIS - BCFE: Basic Computer Forensic Examiner course](https://www.iacis.com/training/basic-computer-forensics-examiner/)
 
 # Digital Forensics Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
@@ -122,7 +128,7 @@
 
  [Oxygen Forensic Detective](https://www.oxygen-forensic.com/en/products/oxygen-forensic-detective-enterprise) is a forensic's tool that focuses on mobile devices but is capable of extracting data from a number of different platforms, including mobile, IoT, cloud services, drones, media cards, backups and desktop platforms. It uses physical methods to bypass device security (such as screen lock) and collects authentication data for a number of different mobile applications.
 
- [XRY](https://www.msab.com/products/xry/) is a collection of different commercial tools for mobile device forensics. XRY Logical is a suite of tools designed to interface with the mobile device operating system and extract the desired data. XRY Physical, on the other hand, uses physical recovery techniques to bypass the operating system, enabling analysis of locked devices.
+[XRY](https://www.msab.com/products/xry/) is a collection of different commercial tools for mobile device forensics. XRY Logical is a suite of tools designed to interface with the mobile device operating system and extract the desired data. XRY Physical, on the other hand, uses physical recovery techniques to bypass the operating system, enabling analysis of locked devices.
 
 [SIFT Workstation](https://www.sans.org/tools/sift-workstation/) is another open-source Linux virtual machine that aggregates free digital forensics tools. This platform was developed by the SANS Institute and its use is taught in a number of their courses.
 
@@ -263,6 +269,18 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Terrascan](https://runterrascan.io/) is a static code analyzer for Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. 
 
 [Sliver](https://github.com/BishopFox/sliver) is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.
+
+[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) is a list of useful payloads and bypass for Web Application Security and Pentest/CTF. 
+
+[TheHive](https://thehive-project.org/) is a scalable 3-in-1 open source and free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. It is the perfect companion to [MISP](http://www.misp-project.org/). 
+
+[Cortex](https://thehive-project.org/) is a Powerful Observable Analysis and Active Response Engine. This solves a common problem frequently encountered by SOCs, CSIRTs and security researchers in the course of threat intelligence, digital forensics and incident response.
+ 
+[Scrummage](https://github.com/matamorphosis/Scrummage) is an OSINT tool that centralises search functionality from a bounty of powerful, publicly-available, third-party, [OSINT](https://osintframework.com/) websites.
+
+[Bettercap](https://www.bettercap.org/) is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking [WiFi](https://www.bettercap.org/modules/wifi/) networks, [Bluetooth Low Energy](https://www.bettercap.org/modules/ble/) devices, wireless [HID](https://www.bettercap.org/modules/hid/) devices and [Ethernet](https://www.bettercap.org/modules/ethernet) networks.
+
+[Wifiphisher](https://wifiphisher.org/) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can easily achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
 
 [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) is a [Microsoft](https://github.com/microsoft/) developed open source security tool that analyzes the attack surface of a target system and reports on potential security vulnerabilities introduced during the installation of software or system misconfiguration.
 
