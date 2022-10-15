@@ -18,6 +18,9 @@
 
 1. [Digital Forensics Learning Resources](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-learning-resources)
 
+    * [Books & Tutorials](#Books--Tutorials)
+    * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
+
 2. [Digital Forensics Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-tools-libraries-and-frameworks)
 
 3. [Virtualization](https://github.com/mikeroyal/Digital-Forensics-Guide#virtualization)
@@ -42,13 +45,23 @@
 
 [Database forensics](https://resources.infosecinstitute.com/topic/computer-forensics-overview-types-database-forensics/) is the process of interrogating a failed database and trying to reconstruct the metadata and page information from within a data set, whereas database recovery implies some kind of restorative process that will enable the database to become viable enough to be put back into a production environment, or healthy enough to provide a backup that can be used in a database restore.
 
-### Books
+### Books & Tutorials
 
  - [OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
 
  - [NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
  
  - [Python Digital Forensics Cookbook](https://github.com/PythonForensics/PythonForensicsCookbook)
+ 
+ - [GitGuardian API Security Best Practice](https://github.com/GitGuardian/APISecurityBestPractices)
+
+ - [Open Source Security Foundation (OpenSSF) npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md)
+
+ - [Open Source Security Foundation (OpenSSF) Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers)
+
+ - [Open Source Security Foundation (OpenSSF) Identifying Security Threats in Open Source Projects](https://github.com/ossf/wg-identifying-security-threats)
+
+ * [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
 
 ### Digital Forensics Certifications & Courses
 
