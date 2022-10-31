@@ -60,8 +60,12 @@
  - [Open Source Security Foundation (OpenSSF) Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers)
 
  - [Open Source Security Foundation (OpenSSF) Identifying Security Threats in Open Source Projects](https://github.com/ossf/wg-identifying-security-threats)
+ 
+ - [OWASP Foundation Top 10](https://owasp.org/www-project-top-ten/)
+ 
+ - [Common Weakness Enumeration (CWE) Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html)
 
- * [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
+ - [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
 
 ### Digital Forensics Certifications & Courses
 
