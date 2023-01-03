@@ -373,6 +373,20 @@
  
 [Scrummage](https://github.com/matamorphosis/Scrummage) is an OSINT tool that centralises search functionality from a bounty of powerful, publicly-available, third-party, [OSINT](https://osintframework.com/) websites.
 
+[Sandstorm](https://sandstorm.io/) is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. 
+
+[mkcert](https://mkcert.dev/) is a simple zero-config tool to make locally trusted development certificates with any names you'd like. 
+
+[Age](https://age-encryption.org/) is a simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. 
+
+[SOPS](https://github.com/mozilla/sops) is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+
+[Universal Radio Hacker (URH)](https://github.com/jopohl/urh) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios. URH allows easy demodulation of signals combined with an automatic detection of modulation parameters making it a breeze to identify the bits and bytes that fly over the air. 
+
+[Cloudflare Tunnel client](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide) is a tunneling daemon that proxies traffic from the Cloudflare network to your origins. This daemon sits between Cloudflare network and your origin (e.g. a webserver). Cloudflare attracts client requests and sends them to you via this daemon, without requiring you to poke holes on your firewall --- your origin can remain as closed as possible. 
+
+[Cloudflare WARP client](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/) is a tool that allows you to protect corporate devices by securely and privately sending traffic from those devices to Cloudflare’s edge, where Cloudflare Gateway can apply advanced web filtering. It also makes it possible to apply advanced Zero Trust policies that check for a device’s health before it connects to corporate applications.
+
 [Bettercap](https://www.bettercap.org/) is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking [WiFi](https://www.bettercap.org/modules/wifi/) networks, [Bluetooth Low Energy](https://www.bettercap.org/modules/ble/) devices, wireless [HID](https://www.bettercap.org/modules/hid/) devices and [Ethernet](https://www.bettercap.org/modules/ethernet) networks.
 
 [Wifiphisher](https://wifiphisher.org/) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can easily achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
