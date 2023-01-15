@@ -16,7 +16,7 @@
 
 # Table of Contents
 
-1. [Digital Forensics Learning Resources](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-learning-resources)
+1. [Getting Started with Digital Forensics ](https://github.com/mikeroyal/Digital-Forensics-Guide#gettting-started-with-digital-forensics)
 
     * [Books & Tutorials](#Books--Tutorials)
     * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
@@ -32,7 +32,7 @@
 6. [Networking](https://github.com/mikeroyal/Digital-Forensics-Guide#networking)
 
 
-# Digital Forensics Learning Resources
+# Getting Started with Digital Forensics
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
 [Digital Forensics](https://www.dhs.gov/publication/digital-forensics-tools) is the process of recovering and preserving material found on digital devices during the course of criminal investigations. Digital forensics tools include hardware and software tools used by law enforcement to collect and preserve digital evidence and support or refute hypotheses before courts.
