@@ -16,7 +16,7 @@
 
 # Table of Contents
 
-1. [Getting Started with Digital Forensics ](https://github.com/mikeroyal/Digital-Forensics-Guide#gettting-started-with-digital-forensics)
+1. [Getting Started with Digital Forensics ](https://github.com/mikeroyal/Digital-Forensics-Guide#getting-started-with-digital-forensics)
 
     * [Books & Tutorials](#Books--Tutorials)
     * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
