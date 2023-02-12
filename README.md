@@ -396,6 +396,32 @@
 
 [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) is a [Microsoft](https://github.com/microsoft/) developed open source security tool that analyzes the attack surface of a target system and reports on potential security vulnerabilities introduced during the installation of software or system misconfiguration.
 
+[CrowdSec](https://www.crowdsec.net/) is an open-source and collaborative security stack leveraging the crowd power to generate a global CTI database to protect the user network. It will analyze behaviors, respond to attacks & share signals across the community. 
+
+[Crowdsec Firewall Bouncer](https://github.com/crowdsecurity/cs-firewall-bouncer) is a tool that will fetch new and old decisions from a CrowdSec API to add them in a blocklist used by supported firewalls.
+
+**Supported firewalls:**
+
+  * iptables (IPv4 heavy_check_mark / IPv6 heavy_check_mark )
+  * nftables (IPv4 heavy_check_mark / IPv6 heavy_check_mark )
+  * ipset only (IPv4 heavy_check_mark / IPv6 heavy_check_mark )
+  * pf (IPV4 heavy_check_mark / IPV6 heavy_check_mark )
+
+
+[Pulse](https://kean.blog/pulse/home) is a powerful logging system for Apple Platforms builtin in SwiftUI. It allows you to record and inspect logs and ```URLSession``` network requests right from your iOS app. Shared logs and view them in [Pulse Pro](https://kean.blog/pulse/pro) or use remote logging to see them in real-time. Logs are stored locally and never leave your devices.
+
+[tshark.dev](https://tshark.dev/) is your complete guide to working with packet captures on the command-line.
+
+[Nebula](https://github.com/slackhq/nebula) is a scalable overlay networking tool with a focus on performance, simplicity and security. It lets you seamlessly connect computers anywhere in the world. Nebula is portable, and runs on Linux, OSX, Windows, iOS, and Android. It can be used to connect a small number of computers, but is also able to connect tens of thousands of computers.
+
+[Parca](https://parca.dev/) is a tool for continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+
+[DeepFlow](https://github.com/deepflowys/deepflow) is a highly automated observability platform for cloud-native developers. Using new technologies such as eBPF, WASM, and OpenTelemetry, DeepFlow innovatively implements core mechanisms such as AutoTracing, AutoMetrics, AutoTagging, and SmartEncoding, which greatly avoids code instrumentation and significantly reduces the resource overhead of back-end data warehouses. 
+
+[Hetty](https://github.com/dstotijn/hetty) is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+
+[LGTM](https://github.com/marketplace/lgtm) is a tol that finds and prevents zero-days and other critical bugs, with customizable alerts and automated code review.
+
 [Intel Owl](https://intelowl.readthedocs.io/) is an Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. It integrates a number of analyzers available online and a lot of cutting-edge malware analysis tools.
 
 [Deepfence ThreatMapper](https://deepfence.io/) is a runtime tool that hunts for vulnerabilities in your cloud native production platforms(Linux, K8s, AWS Fargate and more.), and ranks these vulnerabilities based on their risk-of-exploit. 
