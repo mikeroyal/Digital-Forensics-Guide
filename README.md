@@ -360,6 +360,26 @@
 
 [Amass](https://owasp.org/www-project-amass/) is an OWASP Project that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 
+[LGTM](https://github.com/marketplace/lgtm) is a tol that finds and prevents zero-days and other critical bugs, with customizable alerts and automated code review.
+
+[Semgrep](https://github.com/marketplace/semgrep-dev) is a code scanning at ludicrous speed. It find bugs and reachable dependency vulnerabilities. 
+
+[Socket Security](https://github.com/marketplace/socket-security) is a tool that protects your app from malicious open source dependencies.
+
+[Snyk](https://github.com/marketplace/snyk) is a tool that find, fix (and prevent!) known vulnerabilities in your code.
+
+[GitProtect.io](https://github.com/marketplace/gitprotect-io) is a free Backup for GitHub that does automatic, daily repo and metadata backup - no maintenance needed: fast restore, DR, AWS, and S3 cloud storage support.
+
+[Mend Bolt](https://github.com/marketplace/whitesource-bolt) isa that detects open source vulnerabilities in real time with suggested fixes for quick remediation.
+
+[Rewind Backups for GitHub (Formerly BackHub)](https://github.com/marketplace/backhub) is a tool that does daily, automatic backups of your repos & metadata. Restore your backups with metadata in seconds + Sync to your S3 or Azure.
+
+[Renovate](https://github.com/marketplace/renovate) is a tool that keeps dependencies up-to-date with automated Pull Requests.
+
+[GuardRails](https://github.com/marketplace/guardrails) provides continuous security feedback for modern development teams.
+
+[Dnsmasq](https://dnsmasq.org/) is a tool that provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. It is designed to be lightweight and have a small footprint, suitable for resource constrained routers and firewalls. It has also been widely used for tethering on smartphones and portable hotspots, and to support virtual networking in virtualisation frameworks. Supported platforms include Linux (with glibc and uclibc), Android, BSD, and MacOS. 
+
 [IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
 
 [MISP](https://www.misp-project.org/) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
