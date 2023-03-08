@@ -618,7 +618,7 @@ SOAR solutions work by prioritizing and standardizing incident response activiti
 Security information and event management (SIEM) software collects log data from an organization and then uses the log data to identify, categorize and analyze incidents and events.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/223664751-bb85c477-6447-4c55-bf73-f4dbd8aeffaf.png">
 </p>
 
 **SIEM software goals:**
