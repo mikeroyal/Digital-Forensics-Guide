@@ -695,6 +695,22 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
  * Endpoint Detection and Response systems
  * Network Traffic Analytics
  * Threat Intelligence feeds
+ 
+ ### Detection & Response Types
+
+[Back to the Top](#table-of-contents)
+
+ * [Endpoint Detection and Response (EDR)](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/) is a cybersecurity service that's referred to as endpoint detection and threat response (EDTR), is an endpoint security solution that continuously monitors end-user devices to detect and respond to cyber threats like ransomware and malware.
+ 
+ * [Extended detection and response (XDR)](https://www.crowdstrike.com/cybersecurity-101/what-is-xdr/) is a cybersecurity service that collects threat data from previously siloed security tools across an organization's technology stack for easier and faster investigation, threat hunting, and response. An XDR platform can collect security telemetry from endpoints, cloud workloads, network email, and more.
+ 
+ * [Managed detection and response (MDR)](https://www.crowdstrike.com/cybersecurity-101/managed-detection-and-response-mdr/) is a cybersecurity service that combines technology and human expertise to perform threat hunting, monitoring, and response. 
+ 
+ * [Network Detection and Response (NDR)](https://www.ibm.com/topics/ndr) is a category of cybersecurity technologies that use non-signature-based methods—such as artificial intelligence, machine learning and behavioral analytics—to detect suspicious or malicious activity on the network and respond to cyber threats.
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/226541125-f6b079d5-022d-413e-ad35-bb2b80e24428.png">
+</p>
 
 # Networking
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
