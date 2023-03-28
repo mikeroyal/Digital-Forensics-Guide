@@ -93,6 +93,8 @@
 # Digital Forensics Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
+[Acquire](https://github.com/fox-it/acquire) is a [tool](https://docs.dissect.tools/en/latest/tools/acquire.html) to quickly gather forensic artifacts from disk images or a live system into a lightweight container.
+
 [Autopsy®](https://sleuthkit.org/autopsy/) is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 
 [The Sleuth Kit® (TSK)](https://sleuthkit.org/sleuthkit/) is a library and collection of command line tools that allow you to investigate disk images. The core functionality of TSK allows you to analyze volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence.
@@ -106,6 +108,8 @@
 [Digital Evidence Investigator®](https://www.adfsolutions.com/dei) is a digital forensic tool for Windows, Linux, and macOS (including T2 and M1 chips). DEI collects digital evidence and presents it in a timeline view to tie the user to files and artifacts.
 
 [Digital Evidence Investigator® PRO](https://www.adfsolutions.com/dei-pro) is a tool that includes Windows, Linux and macOS (including T2 and M1 chips) computer forensic capabilities of [Digital Evidence Investigator®](https://www.adfsolutions.com/dei) and [Mobile Device Investigator®](https://www.adfsolutions.com/mobile-device-investigator) iOS/Android capabilities in a single license.
+
+[Dissect](https://github.com/fox-it/dissect) is a digital forensics & incident response [framework](https://docs.dissect.tools/en/latest/) and [toolset](https://docs.dissect.tools/en/latest/) that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
 
 [Guymager](https://tools.kali.org/forensics/guymager) is a free forensic imager for media acquisition. Its main features are: Easy user interface in different languages. Really fast, due to multi-threaded, pipelined design and multi-threaded data compression. Generates flat (dd), EWF (E01) and AFF images, supports disk cloning. Free of charges, completely open source.
 
