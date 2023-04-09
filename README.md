@@ -380,6 +380,22 @@
 
 [Dnsmasq](https://dnsmasq.org/) is a tool that provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot. It is designed to be lightweight and have a small footprint, suitable for resource constrained routers and firewalls. It has also been widely used for tethering on smartphones and portable hotspots, and to support virtual networking in virtualisation frameworks. Supported platforms include Linux (with glibc and uclibc), Android, BSD, and MacOS. 
 
+[Dissect](https://github.com/fox-it/dissect) is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+
+[Acquire](https://github.com/fox-it/acquire) is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. 
+ 
+[Faraday](https://www.faradaysec.com/) is an Open Source Vulnerability Management Platform. It aggregates and normalizes the data you load, allowing exploring it into different visualizations that are useful to managers and analysts alike.
+ 
+[Security Onion](https://github.com/Security-Onion-Solutions/securityonion) is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. 
+
+[nDPI®](http://www.ntop.org/) is an open source LGPLv3 library for deep-packet inspection. Based on OpenDPI it includes ntop extensions. 
+
+[Azure Sentinel](https://github.com/Azure/Azure-Sentinel) is a Cloud-native SIEM for intelligent security analytics for your entire enterprise. 
+
+[NETworkManager](https://github.com/BornToBeRoot/NETworkManager) is a powerful tool for managing networks and troubleshoot network problems. It contains features like a WiFi analyzer, IP scanner, port scanner, ping monitor, traceroute, DNS lookup or a LLDP/CDP capture. 
+
+[Smap](https://github.com/s0md3v/Smap) is a port scanner built with shodan.io's free API. It takes same command line arguments as Nmap and produces the same output which makes it a drop-in replacament for Nmap.
+
 [IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
 
 [MISP](https://www.misp-project.org/) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
