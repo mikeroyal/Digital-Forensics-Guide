@@ -166,6 +166,10 @@
 
 [DIRTY](https://github.com/CMUSTRUDEL/DIRTY) is a Augmenting Decompiler Output with Learned Variable Names and Types developed by the Socio-Technical Research Using Data Excavation Lab, at Carnegie Mellon University.
 
+[Dissect](https://github.com/fox-it/dissect) is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
+
+[Acquire](https://github.com/fox-it/acquire) is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. 
+
 # Virtualization
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
