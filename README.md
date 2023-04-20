@@ -275,6 +275,10 @@
 
 * [ISO Standards Catalogue](https://www.iso.org/standards.html)
 
+[Federal Risk and Authorization Management Program (FedRAMP)](https://www.gsa.gov/technology/government-it-initiatives/fedramp) is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. FedRAMP empowers agencies to use modern cloud technologies, with emphasis on security and protection of federal information, and helps accelerate the adoption of secure, cloud solutions.
+
+[Federal Information Security Management Act (FISMA)](https://csrc.nist.gov/topics/laws-and-regulations/laws/fisma)  is a United States federal law that defines a comprehensive framework to protect government information, operations, and assets against natural and manmade threats. This risk management framework was signed into law as part of the Electronic Government Act of 2002. Since 2002, FISMA's scope has widened to apply to state agencies that administer federal programs, or private businesses and service providers that hold a contract with the U.S. government.
+
 [Common Criteria for Information Technology Security Evaluation (CC)](https://www.commoncriteriaportal.org/cc/) is an international standard (ISO / IEC 15408) for computer security. It allows an objective evaluation to validate that a particular product satisfies a defined set of security requirements. 
 
 [ISO 22301](https://www.iso.org/en/contents/data/standard/07/51/75106.html) is the international standard that provides a best-practice framework for implementing an optimised BCMS (business continuity management system).
