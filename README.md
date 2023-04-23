@@ -410,6 +410,12 @@
 
 [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) is a powerful tool for managing networks and troubleshoot network problems. It contains features like a WiFi analyzer, IP scanner, port scanner, ping monitor, traceroute, DNS lookup or a LLDP/CDP capture. 
 
+[Tailnet](https://tailscale.com/kb/1136/tailnet/) is your private network. When you log in for the first time to Tailscale on your phone, laptop, desktop, or cloud VM, a tailnet is created. For personal users, you are a tailnet of many devices and one person. Each device gets a private Tailscale IP address in the [CGNAT](https://tailscale.com/kb/1015/100.x-addresses/) range and every device can talk directly to every other device, wherever they are on the internet.
+
+[Tailscale SSH](https://tailscale.com/kb/1193/tailscale-ssh/) is a service that allows Tailscale to manage the authentication and authorization of SSH connections on your tailnet.
+
+[Tailscale Funnel](https://tailscale.com/kb/1223/tailscale-funnel/) is a feature that allows you to route traffic from the wider internet to one or more of your Tailscale nodes. You can think of this as publicly sharing a node for anyone to access, even if they don’t have Tailscale themselves. 
+
 [Smap](https://github.com/s0md3v/Smap) is a port scanner built with shodan.io's free API. It takes same command line arguments as Nmap and produces the same output which makes it a drop-in replacament for Nmap.
 
 [IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
