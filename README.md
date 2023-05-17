@@ -23,6 +23,7 @@
 
     * [Books & Tutorials](#Books--Tutorials)
     * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
+    * [Playbooks](#playbooks)
 
 2. [Digital Forensics Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-tools-libraries-and-frameworks)
 
@@ -54,6 +55,8 @@
 
  - [NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
 
+ - [Python Digital Forensics Cookbook](https://github.com/PythonForensics/PythonForensicsCookbook)
+
  - [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson's book on Incident Response.
  
  - [Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory.
@@ -77,8 +80,6 @@
  - [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - The definitive guide to practice memory forensics. By Svetlana Ostrovskaya and Oleg Skulkin.
  
  - [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR.
- 
- - [Python Digital Forensics Cookbook](https://github.com/PythonForensics/PythonForensicsCookbook)
  
  - [GitGuardian API Security Best Practice](https://github.com/GitGuardian/APISecurityBestPractices)
 
@@ -113,6 +114,20 @@
  - [Cyber Security Training, Certifications, Degrees and Resources | SANS Institute](https://computer-forensics.sans.org)
 
  - [IACIS - BCFE: Basic Computer Forensic Examiner course](https://www.iacis.com/training/basic-computer-forensics-examiner/)
+
+### Playbooks
+
+[Back to the Top](#table-of-contents)
+
+* [Automate threat response with playbooks in Microsoft Azure with Sentinel](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/sentinel/tutorial-respond-threats-playbook.md) is a collection of procedures that can be run from Microsoft Sentinel in response to an alert or incident. A playbook can help automate and orchestrate your response, and can be set to run automatically when specific alerts or incidents are generated, by being attached to an analytics rule or an automation rule, respectively.
+* [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
+* [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
+* [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
+* [IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
+* [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow consists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
+* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
+* [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
+* [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 # Digital Forensics Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
