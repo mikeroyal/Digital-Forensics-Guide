@@ -215,6 +215,14 @@
 
 [Acquire](https://github.com/fox-it/acquire) is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. 
 
+[artifactcollector](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
+
+[Cold Disk Quick Response](https://github.com/rough007/CDQR) - Streamlined list of parsers to quickly analyze a forensic image file (`dd`, E01, `.vmdk`, etc) and output nine reports.
+
+[CyLR](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+
+[Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
+
 # Virtualization
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
 
