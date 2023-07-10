@@ -483,6 +483,16 @@
 
 [mkcert](https://mkcert.dev/) is a simple zero-config tool to make locally trusted development certificates with any names you'd like. 
 
+[ir-rescue](https://github.com/diogo-fernan/ir-rescue) is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+
+[Live Response Collection](https://www.brimorlabs.com/tools/) is an automated tool that collects volatile data from Windows, MacOS, and \*nix based operating systems.
+
+[Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) is a  Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+
+[Catalyst](https://github.com/SecurityBrewery/catalyst) is a free SOAR system that helps to automate alert handling and incident response processes.
+
+[CyberCPR](https://www.cybercpr.com) is a community and commercial incident management tool with Need-to-Know built in to support GDPR compliance while handling sensitive incidents.
+
 [Age](https://age-encryption.org/) is a simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. 
 
 [SOPS](https://github.com/mozilla/sops) is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
