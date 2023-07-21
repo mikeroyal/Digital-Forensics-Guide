@@ -118,6 +118,10 @@
  - [Cyber Security Training, Certifications, Degrees and Resources | SANS Institute](https://computer-forensics.sans.org)
 
  - [IACIS - BCFE: Basic Computer Forensic Examiner course](https://www.iacis.com/training/basic-computer-forensics-examiner/)
+ 
+ - [SANS FOR518: Mac and iOS Forensic Analysis and Incident Response Course](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/)
+
+ - [SANS FOR500: Windows Forensic Analysis Course](https://www.sans.org/cyber-security-courses/windows-forensic-analysis/)
 
 ### Playbooks
 
