@@ -521,6 +521,18 @@
 
 [Wifiphisher](https://wifiphisher.org/) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can easily achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
 
+[Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/) is a Cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
+
+[Request Tracker for Incident Response (RTIR)](https://www.bestpractical.com/rtir/)  is a premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
+
+[Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
+
+[Shuffle](https://github.com/frikky/Shuffle) is a general purpose security automation platform focused on accessibility.
+
+[threat_note](https://github.com/defpoint/threat_note) is a Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
+
+[Zenduty](https://www.zenduty.com) is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle.
+
 [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) is a [Microsoft](https://github.com/microsoft/) developed open source security tool that analyzes the attack surface of a target system and reports on potential security vulnerabilities introduced during the installation of software or system misconfiguration.
 
 [CrowdSec](https://www.crowdsec.net/) is an open-source and collaborative security stack leveraging the crowd power to generate a global CTI database to protect the user network. It will analyze behaviors, respond to attacks & share signals across the community. 
