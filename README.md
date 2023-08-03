@@ -191,7 +191,7 @@
 
  [Wireshark](https://www.wireshark.org/) is the most widely used network traffic analysis tool in existence. It has the ability to capture live traffic or ingest a saved capture file.
 
- [Network Miner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool (NFAT) for Windows (also Linux, macOS X , and FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, and open ports  without putting any traffic on the network.
+ [Network Miner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool (NFAT) for Windows (also Linux, macOS, and FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, and open ports  without putting any traffic on the network.
 
  [Xplico](https://www.xplico.org/) is an open-source network forensic analysis tool. It is used to extract useful data from applications which use Internet and network protocols. It supports most of the popular protocols including HTTP, IMAP, POP, SMTP, SIP, TCP, UDP, TCP and others. Output data of the tool is stored in an SQLite database or MySQL database. It also supports both IPv4 and IPv6.
 
@@ -228,6 +228,8 @@
 [Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts) is a Digital Forensics Artifact Repository.
 
 [UAC (Unix-like Artifacts Collector)](https://github.com/tclahr/uac)  is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, VMware ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+
+[Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) is a Forensics tool that allows various types of disk acquisitions to be performed on Windows, Linux, and macOS as well as mobile operating systems (iOS & Android).
 
 # Virtualization
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
@@ -525,7 +527,7 @@
 
 [Request Tracker for Incident Response (RTIR)](https://www.bestpractical.com/rtir/)  is a premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
 
-[Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
+[Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) is a  Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use.
 
 [Shuffle](https://github.com/frikky/Shuffle) is a general purpose security automation platform focused on accessibility.
 
