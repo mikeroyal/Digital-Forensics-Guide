@@ -28,6 +28,7 @@
     * [Books & Tutorials](#Books--Tutorials)
     * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
     * [Playbooks](#playbooks)
+    * [YouTube Tutorials](#youtube-tutorials)
 
 2. [Digital Forensics Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Digital-Forensics-Guide#digital-forensics-tools-libraries-and-frameworks)
 
@@ -138,6 +139,20 @@
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
+
+### YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![Free Introduction to Digital Forensics Course Playlist | DFIRScience](https://ytcards.demolab.com/?id=giv0DQDSsjQ&list=PLJu2iQtpGvv-2LtysuTTka7dHt9GKUbxD&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Free Introduction to Digital Forensics Course Playlist | DFIRScience")](https://www.youtube.com/watch?v=giv0DQDSsjQ&list=PLJu2iQtpGvv-2LtysuTTka7dHt9GKUbxD)
+[![DFIR 101: Digital Forensics Essentials | Kathryn Hedley](https://ytcards.demolab.com/?id=eftOgRsHK4A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "DFIR 101: Digital Forensics Essentials | Kathryn Hedley")](https://www.youtube.com/watch?v=eftOgRsHK4A)
+[![SANS Threat Analysis Rundown (STAR) with Katie Nickels | August 2023](https://ytcards.demolab.com/?id=STTlaGBJ9Y4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "SANS Threat Analysis Rundown (STAR) with Katie Nickels | August 2023")](https://www.youtube.com/watch?v=STTlaGBJ9Y4)
+[![Detecting & Hunting Ransomware Operator Tools: It Is Easier Than You Think!](https://ytcards.demolab.com/?id=oMAvSpq9fYY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Detecting & Hunting Ransomware Operator Tools: It Is Easier Than You Think!")](https://www.youtube.com/watch?v=oMAvSpq9fYY)
+[![Memory Forensics: How we used to do it & how we use it to respond to large-scale breaches today](https://ytcards.demolab.com/?id=fhBQ3IZnW-Q&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Memory Forensics: How we used to do it & how we use it to respond to large-scale breaches today")](https://www.youtube.com/watch?v=fhBQ3IZnW-Q)
+[![How to know if your PC is hacked? Digital Forensics 101](https://ytcards.demolab.com/?id=SUOQdR3BBtE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to know if your PC is hacked? Digital Forensics 101")](https://www.youtube.com/watch?v=SUOQdR3BBtE)
+[![Getting started in digital forensics](https://ytcards.demolab.com/?id=j3lgxdylktM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Getting started in digital forensics")](https://www.youtube.com/watch?v=j3lgxdylktM)
+[![Everything Digital Forensics - From Certifications to Lab Setup](https://ytcards.demolab.com/?id=dDhZLPntJd8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Everything Digital Forensics - From Certifications to Lab Setup")](https://www.youtube.com/watch?v=dDhZLPntJd8)
+[![Computer Forensics Cybersecurity Career Guide](https://ytcards.demolab.com/?id=LJKzcUtR2qQ&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Computer Forensics Cybersecurity Career Guide")](https://www.youtube.com/watch?v=LJKzcUtR2qQ)
 
 # Digital Forensics Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
